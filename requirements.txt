@@ -1,0 +1,16 @@
+pandas
+pathlib
+tqdm
+rasterio
+scikit-learn
+albumentations
+scikit-image
+einops
+-f https://download.pytorch.org/whl/cu111/torch_stable.html
+torch==1.10.1+cu111
+torchvision==0.11.2+cu111
+torchaudio==0.10.1 
+lightning
+setuptools==59.5.0
+segmentation-models-pytorch
+wandb

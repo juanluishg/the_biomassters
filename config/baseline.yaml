@@ -1,0 +1,6 @@
+trainer:
+  logger: True
+  enable_checkpointing: True
+datamodule:
+  num_workers: 0
+  batch_size: 16

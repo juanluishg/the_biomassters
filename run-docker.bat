@@ -1,0 +1,1 @@
+docker run --name tensorflow-gpu -d -p 8888:8888 -v D:\Proyectos\the_biomassters:/tf/biomassters/ --gpus all -t tensorflow/tensorflow:latest-gpu-jupyter
