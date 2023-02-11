@@ -1,4 +1,6 @@
 /.ipynb_checkpoints
+/src/.ipynb_checkpoints
+/src/__pycache__
 /checkpoints
 /data
 /wandb
